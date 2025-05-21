@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reloading Trays - AnvilX3D</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body style="text-align: center; font-family: Arial, sans-serif; padding: 20px;">
+
+    <!-- Images at the Top -->
+    <div style="display: flex; justify-content: center; gap: 20px;">
+        <img src="images/reloading_tray.png" alt="Reloading Tray Example" width="300">
+    </div>
+
+    <h1>Reloading Trays</h1>
+    <p>Precision-crafted reloading trays designed for seamless ammo reloading.</p>
+
+    <!-- Available Designs -->
+    <h2>Available Tray Types</h2>
+    <ul style="list-style-type: none; padding: 0;">
+        <li>✔ 9mm Reloading Tray</li>
+        <li>✔ .223 Rem Reloading Tray</li>
+        <li>✔ .308 Reloading Tray</li>
+        <li>✔ Custom Configurations</li>
+    </ul>
+
+    <hr>
+    <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
