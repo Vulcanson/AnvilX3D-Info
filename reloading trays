@@ -10,7 +10,7 @@
 
     <!-- Images at the Top -->
     <div style="display: flex; justify-content: center; gap: 20px;">
-        <img src="images/reloading_tray.png" alt="Reloading Tray Example" width="300">
+        <img src="images/308tray.png" alt="Reloading Tray Example" width="300">
     </div>
 
     <h1>Reloading Trays</h1>
