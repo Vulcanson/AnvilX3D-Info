@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mounts - AnvilX3D</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body style="text-align: center; font-family: Arial, sans-serif; padding: 20px;">
+
+    <!-- Image at the Top -->
+    <img src="images/mount_example.jpg" alt="Mount Example" width="300">
+
+    <h1>Mounts</h1>
+    <p>Custom-designed firearm mounts built for stability and precision.</p>
+
+    <!-- Available Designs -->
+    <h2>Available Mount Types</h2>
+    <ul style="list-style-type: none; padding: 0;">
+        <li>✔ Picatinny Rail Mount</li>
+        <li>✔ Universal Pistol Mount</li>
+        <li>✔ AR-15 Optic Riser</li>
+        <li>✔ Custom Scope Base</li>
+    </ul>
+
+    <hr>
+    <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
