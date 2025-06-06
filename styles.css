@@ -15,7 +15,7 @@ body {
 /* Headings */
 h1 {
     color: #ffcc00; /* Gold - premium feel */
-    font-size: 40px; /* Increased for stronger presence */
+    font-size: 40px; /* Stronger presence */
     font-weight: bold;
     margin-bottom: 20px;
     text-transform: uppercase;
@@ -31,7 +31,7 @@ p {
 
 /* Horizontal Divider */
 hr {
-    border: 2px solid #ffcc00; /* Gold - thicker for stronger impact */
+    border: 2px solid #ffcc00; /* Gold - professional class */
     width: 60%;
     margin: 25px 0;
 }
@@ -49,35 +49,6 @@ a:hover {
 }
 
 /* Call-to-Action Button */
-.button {
-    background-color: #ff4444; /* Red for action */
-    color: white;
-    padding: 14px 30px;
-    font-size: 20px;
-    border-radius: 8px;
-    border: none;
-    cursor: pointer;
-    font-weight: bold;
-    text-transform: uppercase;
-    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.3);
-    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
-}
-
-.button:hover {
-    background-color: #cc0000; /* Darker red for hover effect */
-    transform: scale(1.08);
-}
-
-/* Hero Section */
-.hero {
-    background: url('images/hero-banner.jpg') center/cover no-repeat;
-    padding: 80px 20px;
-    color: white;
-    text-shadow: 2px 2px 4px #000;
-    border-bottom: 2px solid #ffcc00;
-}
-
-/* Hero Button */
 .cta-button {
     background-color: #ffcc00;
     color: #121212;
@@ -96,11 +67,16 @@ a:hover {
     transform: scale(1.1);
 }
 
-/* Popular Items Section */
-.popular-items {
-    margin-top: 40px;
+/* Hero Section */
+.hero {
+    background: url('images/hero-banner.jpg') center/cover no-repeat;
+    padding: 80px 20px;
+    color: white;
+    text-shadow: 2px 2px 4px #000;
+    border-bottom: 2px solid #ffcc00;
 }
 
+/* Popular Items Section */
 .item-grid {
     display: flex;
     justify-content: center;
@@ -119,7 +95,7 @@ a:hover {
     margin-top: 10px;
 }
 
-/* Accessories Grid Layout */
+/* Accessories Page Grid */
 .accessories-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -152,7 +128,7 @@ a:hover {
     color: #e6b800;
 }
 
-/* Comparison Section */
+/* PETG vs. PLA Comparison */
 .comparison-table {
     display: flex;
     justify-content: space-around;
